@@ -4,21 +4,8 @@ import { ExternalLink, Zap, Globe, Code2 } from "lucide-react";
 
 export default function FreeAPIsPage() {
   const apis = [
-    { name: "Random User Data", link: "/api/random-data" },
-    { name: "Random Bank Account", link: "/api/bank/random" },
-    { name: "Random Waifu Image", link: "/api/random-waifu" },
-    { name: "Jokes API", link: "/api/jokes/random" },
-    { name: "Motivational Quotes", link: "/api/quotes/motivation" },
-    { name: "Cat Facts", link: "/api/cats/facts" },
-    { name: "Dog Breeds", link: "/api/dogs/breeds" },
-    { name: "Meme Generator", link: "/api/memes/dank" },
-    { name: "Fake Products", link: "/api/products" },
-    { name: "Weather Mock", link: "/api/weather/delhi" },
-    { name: "Lorem Ipsum Text", link: "/api/lorem" },
-    { name: "Fake Company Data", link: "/api/company" },
-    { name: "Random Password", link: "/api/password" },
-    { name: "UUID Generator", link: "/api/uuid" },
-    { name: "Indian Names", link: "/api/names/india" },
+    { name: "netflix-random", link: "/api/netflix-random" },
+    { name: "Random Bank data", link: "/api/bank-data" },
   ];
 
   return (
