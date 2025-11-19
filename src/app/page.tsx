@@ -12,7 +12,7 @@ export default function FreeAPIsPage() {
     <main className="min-h-screen bg-gradient-to-br from-gray-900 via-purple-900 to-black text-white">
       <section className="py-20 px-6 text-center">
         <h1 className="text-5xl md:text-7xl font-black mb-6 bg-clip-text text-transparent bg-gradient-to-r from-pink-500 to-violet-500">
-          100+ Free APIs
+          1000+ Free APIs
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 max-w-4xl mx-auto">
           Completely free • No auth • No rate limit • Instant response
